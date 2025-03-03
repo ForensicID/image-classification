@@ -7,8 +7,8 @@ Proyek ini merupakan implementasi **Convolutional Neural Network (CNN)** untuk k
 - **TensorFlow.js** (untuk deployment di web)
 
 ## 📂 Struktur Folder
-...
-Submission
+```
+image-classification
 │
 ├── saved_model
 │   ├── variables
@@ -28,7 +28,7 @@ Submission
 ├── notebook.ipnyb
 ├── README.md
 └── requirements.txt
-...
+```
 
 ## 📊 Dataset
 Dataset yang digunakan berisi **gambar kucing dan anjing** yang diambil dari **Kaggle**. Dataset ini dibagi menjadi:
